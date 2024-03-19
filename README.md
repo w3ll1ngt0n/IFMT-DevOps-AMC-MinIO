@@ -1,0 +1,1 @@
+# IFMT-DevOps-AMC-MinIO
